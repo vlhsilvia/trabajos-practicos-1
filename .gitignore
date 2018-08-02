@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+datos/stackovr_normalizados.txt
+modelos/
+
